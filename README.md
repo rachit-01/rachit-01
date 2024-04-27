@@ -17,11 +17,14 @@
   <img align="left" alt="rachit saxena Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br/>
+
+
 ## I'm a Backend developer!
 - 🔭 I’m currently working on React.
 - 👯 Open for Collaboration.
 - ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
 ### Languages and Tools:
+
 <section>
 <img align="left" height="20" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
 <img align="left" height="20" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png">
@@ -38,6 +41,8 @@
 <br/>
 <br/>
 <details>
+
+  
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="Rachit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rachit-01" /> 
 </details>
